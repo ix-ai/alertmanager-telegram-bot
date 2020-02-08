@@ -1,3 +1,7 @@
+# DEPRECATED
+
+**This project is deprecated!** Please look at [alertmanager-notifier](https://gitlab.com/ix.ai/alertmanager-notifier), which is a drop-in replacement. Hence, this project is archived.
+
 # alertmanager-telegram-bot
 
 [![Pipeline Status](https://gitlab.com/ix.ai/alertmanager-telegram-bot/badges/master/pipeline.svg)](https://gitlab.com/ix.ai/alertmanager-telegram-bot/)
